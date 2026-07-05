@@ -1,1 +1,1 @@
-add_subdirectory(apx_topbar)
+add_app(apx_topbar apx_topbar.c)
